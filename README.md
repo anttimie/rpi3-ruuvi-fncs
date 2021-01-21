@@ -1,4 +1,4 @@
-﻿# Azure function app for RPI3 and RuuviTag combo
+# Azure function app for RPI3 and RuuviTag combo
 
 Extract Event Grid messages from RPI3, that listens to RuuviTag over Bluetooth.
 
