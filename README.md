@@ -18,4 +18,5 @@ Extract Event Grid messages from RPI3, that listens to RuuviTag over Bluetooth.
 - build
 - run to test @localhost
 - create a free function app with AI to [Azure](https://portal.azure.com)
+- configure variables etc.
 - publish to the previously created function app
